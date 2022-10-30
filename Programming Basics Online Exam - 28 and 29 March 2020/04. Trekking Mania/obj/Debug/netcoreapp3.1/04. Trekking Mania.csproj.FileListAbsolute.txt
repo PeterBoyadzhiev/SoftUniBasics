@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.exe
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.genruntimeconfig.cache

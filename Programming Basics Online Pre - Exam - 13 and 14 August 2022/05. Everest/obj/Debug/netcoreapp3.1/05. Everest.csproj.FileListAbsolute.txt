@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.exe
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.dll
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.dll
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.genruntimeconfig.cache

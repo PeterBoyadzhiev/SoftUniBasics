@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.genruntimeconfig.cache

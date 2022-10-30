@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.exe
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.deps.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfo.cs
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.genruntimeconfig.cache

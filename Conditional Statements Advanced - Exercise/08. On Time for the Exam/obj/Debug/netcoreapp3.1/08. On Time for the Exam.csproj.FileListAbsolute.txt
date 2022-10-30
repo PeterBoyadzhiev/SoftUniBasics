@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.exe
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.deps.json
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.json
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.dll
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.pdb
+C:\Users\123\Source\Repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp3.1\08. On Time for the Exam.genruntimeconfig.cache

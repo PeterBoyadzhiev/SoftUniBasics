@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.AssemblyInfo.cs
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\bin\Debug\netcoreapp3.1\08. Pet Shop2.exe
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\bin\Debug\netcoreapp3.1\08. Pet Shop2.deps.json
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\bin\Debug\netcoreapp3.1\08. Pet Shop2.runtimeconfig.json
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\bin\Debug\netcoreapp3.1\08. Pet Shop2.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\bin\Debug\netcoreapp3.1\08. Pet Shop2.dll
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\bin\Debug\netcoreapp3.1\08. Pet Shop2.pdb
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.dll
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.pdb
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\08. Pet Shop2\obj\Debug\netcoreapp3.1\08. Pet Shop2.genruntimeconfig.cache

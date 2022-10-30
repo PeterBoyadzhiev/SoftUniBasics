@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\123\Source\Repos\ForLoop-Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

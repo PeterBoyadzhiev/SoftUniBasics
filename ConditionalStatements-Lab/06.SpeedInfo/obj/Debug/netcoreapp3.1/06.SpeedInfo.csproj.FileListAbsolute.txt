@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.exe
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.deps.json
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.json
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.dll
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfo.cs
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.dll
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+C:\Users\123\Source\Repos\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.genruntimeconfig.cache

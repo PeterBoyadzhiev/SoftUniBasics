@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache
+C:\Users\123\Source\Repos\Nested Loops - Exercise\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.exe
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\netcoreapp3.1\06. Tournament of Christmas.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\netcoreapp3.1\06. Tournament of Christmas.genruntimeconfig.cache

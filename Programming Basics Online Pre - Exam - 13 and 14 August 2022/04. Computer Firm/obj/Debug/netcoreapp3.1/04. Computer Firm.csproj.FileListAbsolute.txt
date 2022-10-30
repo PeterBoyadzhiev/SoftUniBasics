@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.exe
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.dll
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\bin\Debug\netcoreapp3.1\04. Computer Firm.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.dll
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\04. Computer Firm\obj\Debug\netcoreapp3.1\04. Computer Firm.genruntimeconfig.cache

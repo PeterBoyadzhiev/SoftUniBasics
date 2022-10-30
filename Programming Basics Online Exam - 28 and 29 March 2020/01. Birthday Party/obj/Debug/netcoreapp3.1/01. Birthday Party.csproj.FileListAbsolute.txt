@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.exe
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\bin\Debug\netcoreapp3.1\01. Birthday Party.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\01. Birthday Party\obj\Debug\netcoreapp3.1\01. Birthday Party.genruntimeconfig.cache

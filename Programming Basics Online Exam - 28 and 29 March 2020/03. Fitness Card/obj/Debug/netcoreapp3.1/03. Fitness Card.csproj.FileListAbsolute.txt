@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.exe
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.genruntimeconfig.cache

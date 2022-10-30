@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfo.cs
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.exe
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.deps.json
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.json
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.dll
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.pdb
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.dll
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.pdb
+C:\Users\123\Source\Repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.genruntimeconfig.cache

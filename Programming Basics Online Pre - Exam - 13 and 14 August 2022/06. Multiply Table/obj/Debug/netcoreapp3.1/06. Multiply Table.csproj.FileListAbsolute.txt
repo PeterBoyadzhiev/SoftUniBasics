@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.exe
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.dll
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\bin\Debug\netcoreapp3.1\06. Multiply Table.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.dll
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Pre - Exam - 13 and 14 August 2022\06. Multiply Table\obj\Debug\netcoreapp3.1\06. Multiply Table.genruntimeconfig.cache

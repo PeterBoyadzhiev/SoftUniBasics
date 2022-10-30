@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.exe
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.genruntimeconfig.cache

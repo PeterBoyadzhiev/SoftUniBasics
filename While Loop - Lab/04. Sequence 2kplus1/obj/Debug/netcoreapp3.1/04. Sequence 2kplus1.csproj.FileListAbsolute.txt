@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\bin\Debug\netcoreapp3.1\04. Sequence 2kplus1.exe
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\bin\Debug\netcoreapp3.1\04. Sequence 2kplus1.deps.json
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\bin\Debug\netcoreapp3.1\04. Sequence 2kplus1.runtimeconfig.json
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\bin\Debug\netcoreapp3.1\04. Sequence 2kplus1.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\bin\Debug\netcoreapp3.1\04. Sequence 2kplus1.dll
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\bin\Debug\netcoreapp3.1\04. Sequence 2kplus1.pdb
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.AssemblyInfo.cs
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.dll
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.pdb
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.genruntimeconfig.cache
+C:\Users\123\Source\Repos\While Loop - Lab\04. Sequence 2kplus1\obj\Debug\netcoreapp3.1\04. Sequence 2kplus1.csproj.AssemblyReference.cache

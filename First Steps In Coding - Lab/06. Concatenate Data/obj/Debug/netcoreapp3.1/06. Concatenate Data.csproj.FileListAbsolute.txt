@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.exe
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.deps.json
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.json
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.dll
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.AssemblyInfo.cs
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.dll
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.pdb
+C:\Users\123\Source\Repos\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\netcoreapp3.1\06. Concatenate Data.genruntimeconfig.cache

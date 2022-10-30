@@ -1,0 +1,13 @@
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.AssemblyInfo.cs
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.exe
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.deps.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.runtimeconfig.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.dll
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.pdb
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.dll
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.pdb
+C:\Users\123\Source\Repos\First Steps in Coding - More Exercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.genruntimeconfig.cache

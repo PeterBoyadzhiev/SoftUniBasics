@@ -1,0 +1,14 @@
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\bin\Debug\netcoreapp3.1\Oscars.exe
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\bin\Debug\netcoreapp3.1\Oscars.deps.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.dev.json
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\bin\Debug\netcoreapp3.1\Oscars.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\bin\Debug\netcoreapp3.1\Oscars.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfoInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfo.cs
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.dll
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.pdb
+C:\Users\123\Source\Repos\Programming Basics Online Exam - 28 and 29 March 2020\Oscars\obj\Debug\netcoreapp3.1\Oscars.genruntimeconfig.cache
